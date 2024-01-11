@@ -1,0 +1,22 @@
+{
+  "name": "lesson53",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KYTNICK/53.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KYTNICK/53/issues"
+  },
+  "homepage": "https://github.com/KYTNICK/53#readme",
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.16"
+  }
+}
