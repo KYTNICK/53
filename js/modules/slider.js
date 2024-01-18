@@ -1,3 +1,5 @@
+require("es6-promise").polyfill();
+import "nodelist-foreach-polyfill";
 function slider({
   container,
   slide,
